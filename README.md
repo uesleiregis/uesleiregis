@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou Uéslei Regis
 
- 💻🔥 Hoje, aprendendo HTML, CSS e JavaScript. | (estudando) UDEMY
+ 💻🔥 Hoje, aprendendo HTML, CSS e JavaScript. | UDEMY (estudando) <br>
  💻🔥 Bootcamp Carrefour Web Developer | DIO (estudando)
  
 🔧✔️ Bacharelado em Ciências e Tecnologia | UFRN (concluído) <br>
