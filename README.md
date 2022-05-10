@@ -1,15 +1,15 @@
 
 ## Olá! Eu sou Uéslei Regis
 
- 💻🔥 Hoje, aprendendo HTML, CSS e JavaScript. | UDEMY
- 💻🔥 Bootcamp Carrefour Web Developer | DIO
+ 💻🔥 Hoje, aprendendo HTML, CSS e JavaScript. | (estudando) UDEMY
+ 💻🔥 Bootcamp Carrefour Web Developer | DIO (estudando)
  
-🔧✔️ Bacharelado em Ciências e Tecnologia | UFRN <br>
+🔧✔️ Bacharelado em Ciências e Tecnologia | UFRN (concluído) <br>
 
-📚🔥 Engenharia Biomédica | UFRN <br>
+📚🔥 Engenharia Biomédica | UFRN  (estudando)<br>
 
-📚🔥 Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma <br> 
-📚🔥 MBA em Marketing Digital e Vendas <br> 
+📚🔥 Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma (estudando) <br> 
+📚🔥 MBA em Marketing Digital e Vendas (estudando) <br> 
 
 <div align="center">
   <a href="https://github.com/uesleiregis">
