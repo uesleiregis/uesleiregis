@@ -2,12 +2,10 @@
 ## Olá! Eu sou Uéslei Regis
 
  💻🔥 Hoje, aprendendo HTML, CSS e JavaScript. | UDEMY (estudando) <br>
- 💻🔥 Formação Python Developer | DIO (estudando)
- 💻🔥 Formação Machine Learning Specialist | DIO (estudando)
- 
-🔧✔️ Bacharelado em Ciências e Tecnologia | UFRN (concluído) <br>
+ 💻🔥 Formação JavaScript Developer | DIO (estudando)
 
-📚🔥 Engenharia Biomédica | UFRN  (estudando)<br>
+🔧✔️ Bacharelado em Ciências e Tecnologia | UFRN (concluído) <br>
+<br>
  <br> 
  
 
