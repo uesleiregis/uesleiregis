@@ -8,9 +8,8 @@
 🔧✔️ Bacharelado em Ciências e Tecnologia | UFRN (concluído) <br>
 
 📚🔥 Engenharia Biomédica | UFRN  (estudando)<br>
-
-📚🔥 Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma (estudando) <br> 
-📚🔥 MBA em Marketing Digital e Vendas (estudando) <br> 
+ <br> 
+ 
 
 <div align="center">
   <a href="https://github.com/uesleiregis">
