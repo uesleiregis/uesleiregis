@@ -3,7 +3,7 @@
 
  💻🔥 Cadete da escola de programação 42Porto. 
 
-🔧✔️ Bacharelado em Ciências e Tecnologia | UFRN (concluído) <br>
+🔧✔️ Bacharel em Ciências e Tecnologia | UFRN (Brasil) <br>
 <br>
  <br> 
  
