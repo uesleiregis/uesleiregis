@@ -1,8 +1,7 @@
 
-## Olá! Eu sou Uéslei Regis
+## Olá! Eu sou Uéslei.
 
- 💻🔥 Hoje, aprendendo HTML, CSS e JavaScript. | UDEMY (estudando) <br>
- 💻🔥 Formação JavaScript Developer | DIO (estudando)
+ 💻🔥 Cadete da escola de programação 42Porto. 
 
 🔧✔️ Bacharelado em Ciências e Tecnologia | UFRN (concluído) <br>
 <br>
