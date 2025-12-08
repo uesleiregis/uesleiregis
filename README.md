@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou Uéslei.
 
- 💻🔥 Cadete da escola de programação 42Porto. 
+ 💻🔥 Cadete da escola de programação 42Porto. (uregis-d)
 
 🔧✔️ Bacharel em Ciências e Tecnologia | UFRN (Brasil) <br>
 <br>
