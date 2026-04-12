@@ -5,8 +5,9 @@
 
 🔧✔️ Bacharel em Ciências e Tecnologia | UFRN (Brasil) <br>
 <br>
- <br> 
+<br> 
  
+![As linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula)
 
 <div align="center">
   <a href="https://github.com/uesleiregis">
