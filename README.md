@@ -34,10 +34,7 @@
  
   ![Snake animation](https://github.com/uesleiregis/uesleiregis/blob/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/uesleiregis?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/uesleiregis">
-</picture>
+https://github-used-languages.vercel.app/uesleiregis
  
 </div>
 
