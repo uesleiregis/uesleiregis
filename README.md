@@ -24,9 +24,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div>
 
+<hr>
+
 ### Languages · Frameworks · Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,linux,docker,kubernetes,githubactions,gitlab,git,prometheus,grafana,py,bash&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux, git,py,HTML,css, javascript, liso, prolog, vhdl,bash&perline=12)](https://skillicons.dev)
 
 <div> 
     <br>
