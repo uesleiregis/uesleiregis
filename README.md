@@ -34,9 +34,10 @@
  
   ![Snake animation](https://github.com/uesleiregis/uesleiregis/blob/output/github-contribution-grid-snake.svg)
 
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleiregis&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/uesleiregis?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/uesleiregis">
+</picture>
  
 </div>
 
