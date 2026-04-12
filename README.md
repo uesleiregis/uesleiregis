@@ -37,6 +37,8 @@
   <a href="https://www.linkedin.com/in/ueslei-regis-23aa29a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/uesleiregis/uesleiregis/blob/output/github-contribution-grid-snake.svg)
+
+  ![As linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula)
  
 </div>
 
