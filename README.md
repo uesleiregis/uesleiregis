@@ -26,9 +26,7 @@
 
 <hr>
 
-### Languages · Frameworks · Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux, git,github,py,html,css,js,prolog,vhdl,bash&perline=12)](https://skillicons.dev)
 
 <div> 
     <br>
